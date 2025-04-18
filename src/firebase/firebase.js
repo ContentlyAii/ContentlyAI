@@ -6,7 +6,6 @@ import { doc, getDoc, collection, getDocs } from "firebase/firestore";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBcoLTtsCI5wHJSeF1wBTNlrNMzobkuEao",
   authDomain: "contently-ai.firebaseapp.com",
   projectId: "contently-ai",
   storageBucket: "contently-ai.firebasestorage.app",
